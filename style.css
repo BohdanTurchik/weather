@@ -29,6 +29,7 @@ h2{
 }
 .block_weather, .block_weather1, .block_weather2, .block_weather3, .block_weather4{
     width: 10%;
+    min-width:150px;
     height: 250px;
     background-color:azure;
     text-align:center;
